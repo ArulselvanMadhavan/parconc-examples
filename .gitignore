@@ -81,3 +81,6 @@ sudoku5
 threadperf1
 threadperf2
 timeout
+/.ghc.environment.x86_64-linux-8.6.3
+/dist-newstyle/**
+**/*_flymake.hs
